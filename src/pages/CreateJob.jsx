@@ -224,6 +224,7 @@ export const CreateJob = () => {
                     <option value="Sales">Sales</option>
                     <option value="Legal">Legal</option>
                     <option value="Medical">Medical</option>
+                    <option value="Teaching">Teaching</option>
                   </select>
                 </div>
 
