@@ -2,6 +2,11 @@
 
 This is the front-end application for Job Finder, a platform designed to connect job seekers with potential employers. The application is built using React and Vite, and it leverages various modern web technologies to provide a seamless user experience.
 
+To use the Admin Controls login with this Credentials 
+
+Login ID-admin@example.com
+Password-Admin@123
+
 ## Features
 
 ### User Authentication
